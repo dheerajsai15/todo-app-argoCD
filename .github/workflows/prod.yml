@@ -27,4 +27,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: dheerajsai15/todo-app-argoCD:${{ github.sha }}
+          tags: dheerajsai15/todo-app-argocd:${{ github.sha }}
